@@ -18,9 +18,9 @@
                     Welcome to GateAPI
                 </h1>
                 <p class="subheading font-weight-regular">
-                    You currently have no app behind the gate
+                    You currently have no apps behind the gate
                     <br>
-                    <v-btn color="success">Add an app</v-btn>
+                    <v-btn color="accent darken-2">Add an app</v-btn>
                 </p>
             </v-flex>
 
@@ -94,10 +94,6 @@
                 {
                     text: 'Made with GateAPI',
                     href: 'https://madewithvuetifyjs.com'
-                },
-                {
-                    text: 'Stack Overflow',
-                    href: 'https://medium.com/vuetify'
                 }
             ],
             whatsNext: [
@@ -106,11 +102,11 @@
                     href: 'https://vuetifyjs.com/components/api-explorer'
                 },
                 {
-                    text: 'Getting Started with GateAPI',
+                    text: 'Getting Started',
                     href: 'https://vuetifyjs.com/layout/pre-defined'
                 },
                 {
-                    text: 'Frequently Asked Questions',
+                    text: 'FAQs',
                     href: 'https://vuetifyjs.com/getting-started/frequently-asked-questions'
                 }
 
